@@ -91,7 +91,7 @@ a:focus {
 
 a:hover {
   text-decoration: none;
-  color: #00a69b; }
+  color: #e1ce24; }
 
 button, input[type="submit"] {
   cursor: pointer; }
@@ -209,7 +209,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background-color: #242424 !important; }
 
 .bg-theme {
-  background-color: #00a69b !important; }
+  background-color: #e1ce24 !important; }
 
 .light-green-bg {
   background-color: #f2fdfd; }
@@ -286,7 +286,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     - Button
 ------------------------------------------*/
 .df-btn {
-  background-color: #00a69b;
+  background-color: #e1ce24;
   color: #ffffff;
   font-size: 16px;
   line-height: 14px;
@@ -307,7 +307,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     outline: none; }
   .df-btn:hover {
     color: #ffffff;
-    background-color: #00A69B;
+    background-color: #e1ce24;
     -webkit-box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4);
     box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4); }
   @media only screen and (max-width: 767px) {
@@ -409,7 +409,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .page-breadcrumb li:last-child::after {
       display: none; }
     .page-breadcrumb li a:hover {
-      color: #00a69b; }
+      color: #e1ce24; }
 
 /*-- 
     - Page Pagination
@@ -459,11 +459,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
           .page-pagination li a i {
             line-height: 24px; } }
     .page-pagination li:hover a {
-      color: #00a69b;
+      color: #e1ce24;
       background-color: #252525; }
     .page-pagination li.active a {
       color: #ffffff;
-      background-color: #00a69b; }
+      background-color: #e1ce24; }
     .page-pagination li:first-child a {
       color: #252525;
       width: auto;
@@ -472,7 +472,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         margin-right: 10px;
         float: left; }
       .page-pagination li:first-child a:hover {
-        color: #00a69b; }
+        color: #e1ce24; }
     .page-pagination li:last-child a {
       color: #252525;
       width: auto;
@@ -485,7 +485,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         margin-left: 10px;
         float: right; }
       .page-pagination li:last-child a:hover {
-        color: #00a69b; }
+        color: #e1ce24; }
 
 .grid-filter {
   display: -webkit-box;
@@ -513,7 +513,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       position: absolute;
       left: 0;
       bottom: 4px;
-      background-color: #00a69b;
+      background-color: #e1ce24;
       z-index: -1;
       -webkit-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
@@ -555,7 +555,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   transform: translateY(-50%);
   z-index: 9;
   border: none;
-  background-color: #00a69b;
+  background-color: #e1ce24;
   color: #ffffff;
   padding: 10px;
   width: 44px;
@@ -572,7 +572,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     top: 0;
     width: 100%;
     height: 100%;
-    border: 2px solid #00a69b;
+    border: 2px solid #e1ce24;
     background-color: transparent;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -620,7 +620,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       text-indent: -9999px;
       border-radius: 50px; }
     .slick-slider .slick-dots li.slick-active button {
-      background-color: #00a69b; }
+      background-color: #e1ce24; }
 
 .gallery-item {
   position: relative; }
@@ -698,7 +698,7 @@ blockquote.blockquote {
     line-height: 18px; }
 
 #scrollUp {
-  background: #00a69b;
+  background: #e1ce24;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -816,10 +816,10 @@ blockquote.blockquote {
       line-height: 30px;
       margin-left: 3px; }
     .main-menu > ul > li.active > a, .main-menu > ul > li:hover > a {
-      color: #00a69b; }
+      color: #e1ce24; }
       .main-menu > ul > li.active > a::before, .main-menu > ul > li:hover > a::before {
         width: 100%;
-        background-color: #00a69b; }
+        background-color: #e1ce24; }
     .main-menu > ul > li:hover > .sub-menu {
       margin-top: 0;
       opacity: 1;
@@ -885,13 +885,13 @@ blockquote.blockquote {
       line-height: 30px;
       float: right; }
     .sub-menu li.active > a {
-      color: #00a69b; }
+      color: #e1ce24; }
     .sub-menu li .sub-menu {
       left: 100%;
       top: 0;
       margin-left: 0; }
     .sub-menu li:hover > a {
-      color: #00a69b;
+      color: #e1ce24;
       padding-left: 25px; }
     .sub-menu li:hover > .sub-menu {
       margin-top: -10px;
@@ -1005,10 +1005,10 @@ blockquote.blockquote {
             .mobile-menu .mean-bar .mean-nav > ul li a::after {
               display: none; }
             .mobile-menu .mean-bar .mean-nav > ul li a:hover {
-              color: #00a69b;
+              color: #e1ce24;
               padding-left: 25px; }
             .mobile-menu .mean-bar .mean-nav > ul li a.active, .mobile-menu .mean-bar .mean-nav > ul .sidebar-area ul.side-sub-nav li a:hover, .sidebar-area ul.side-sub-nav .mobile-menu .mean-bar .mean-nav > ul li a:hover {
-              color: #00a69b; }
+              color: #e1ce24; }
             .mobile-menu .mean-bar .mean-nav > ul li a.mean-expand {
               border-width: 0 1px;
               border-style: solid;
@@ -1160,7 +1160,7 @@ blockquote.blockquote {
     line-height: 56px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #00a69b;
+    color: #000;
     margin-bottom: 40px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .hero-slider-content h2 {
@@ -1196,7 +1196,7 @@ blockquote.blockquote {
     line-height: 56px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #00a69b;
+    color: #000;
     margin-bottom: 40px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .hero-slider-content-2 h2 {
@@ -1239,7 +1239,7 @@ blockquote.blockquote {
       top: 0;
       right: 0;
       border: 0;
-      background-color: #00a69b;
+      background-color: #e1ce24;
       color: #ffffff;
       padding: 8px 30px;
       border-radius: 50px;
@@ -1249,7 +1249,7 @@ blockquote.blockquote {
       transition: all 0.3s ease-in-out; }
       .hero-slider-content-2 .hero-search-box form button:hover {
         color: #ffffff;
-        background-color: #00A69B;
+        background-color: #e1ce24;
         -webkit-box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4);
         box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4); }
 
@@ -1313,7 +1313,7 @@ blockquote.blockquote {
   .service-section-title > h3 {
     font-size: 36px;
     font-weight: 300;
-    color: #00a69b;
+    color: #e1ce24;
     line-height: 42px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .service-section-title > h3 {
@@ -1330,7 +1330,7 @@ blockquote.blockquote {
   font-size: 24px;
   line-height: 30px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 10px; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .single-service > h4 {
@@ -1379,7 +1379,7 @@ blockquote.blockquote {
   .video-popup-area .video-content h4 {
     font-size: 24px;
     font-weight: 300;
-    color: #00a69b;
+    color: #e1ce24;
     line-height: 30px; }
     @media only screen and (max-width: 767px) {
       .video-popup-area .video-content h4 {
@@ -1477,7 +1477,7 @@ blockquote.blockquote {
   .accordion-content h3 {
     font-size: 36px;
     font-weight: 300;
-    color: #00a69b;
+    color: #e1ce24;
     line-height: 42px;
     margin-bottom: 25px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1564,7 +1564,7 @@ blockquote.blockquote {
       font-size: 36px;
       font-weight: 300;
       line-height: 42px;
-      color: #00a69b;
+      color: #e1ce24;
       margin-bottom: 10px; }
       @media only screen and (max-width: 767px) {
         .support-section .support-content h3 {
@@ -1626,7 +1626,7 @@ blockquote.blockquote {
     font-size: 36px;
     font-weight: 300;
     line-height: 42px;
-    color: #00a69b;
+    color: #e1ce24;
     margin-bottom: 20px; }
     @media only screen and (max-width: 767px) {
       .all-support-area .support-section-title h2 {
@@ -1662,7 +1662,7 @@ blockquote.blockquote {
     font-size: 24px;
     line-height: 30px;
     font-weight: 300;
-    color: #00a69b;
+    color: #e1ce24;
     margin-bottom: 10px; }
   .all-support-area .single-support-area .support-content p {
     font-size: 16px;
@@ -1756,7 +1756,7 @@ blockquote.blockquote {
 .testimonial-content h3 {
   font-size: 36px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   line-height: 42px;
   margin-bottom: 30px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1898,7 +1898,7 @@ blockquote.blockquote {
     font-size: 28px;
     line-height: 32px;
     font-weight: 300;
-    color: #00a69b;
+    color: #e1ce24;
     margin: 0 auto; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1978,7 +1978,7 @@ blockquote.blockquote {
     .sidebar-area ul.side-nav > li .side-sub-nav {
       display: none; }
     .sidebar-area ul.side-nav > li.open > a {
-      color: #00a69b; }
+      color: #e1ce24; }
     .sidebar-area ul.side-nav > li > a {
       font-size: 24px;
       line-height: 42px;
@@ -1997,7 +1997,7 @@ blockquote.blockquote {
         left: 0;
         width: 155px;
         height: 1px;
-        background-color: #00a69b; }
+        background-color: #e1ce24; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .sidebar-area ul.side-nav > li > a::before {
@@ -2013,7 +2013,7 @@ blockquote.blockquote {
         left: 0;
         width: 155px;
         height: 1px;
-        background-color: #00a69b; }
+        background-color: #e1ce24; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .sidebar-area ul.side-nav > li > a::after {
@@ -2023,7 +2023,7 @@ blockquote.blockquote {
   .sidebar-area ul.side-nav > li > a::after {
     width: 100%; } }
       .sidebar-area ul.side-nav > li > a:hover {
-        color: #00a69b; }
+        color: #e1ce24; }
   .sidebar-area ul.side-sub-nav {
     margin-top: 20px; }
     .sidebar-area ul.side-sub-nav li a {
@@ -2071,7 +2071,7 @@ blockquote.blockquote {
             font-size: 14px;
             line-height: 24px; } }
         .single-sidebar-widget ul li a:hover {
-          color: #00a69b; }
+          color: #e1ce24; }
   .single-sidebar-widget .news-latter-box {
     text-align: center;
     padding: 60px 25px; }
@@ -2173,7 +2173,7 @@ blockquote.blockquote {
       font-size: 36px;
       line-height: 42px;
       font-weight: 300;
-      color: #00a69b;
+      color: #e1ce24;
       margin-bottom: 25px; }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2195,12 +2195,12 @@ blockquote.blockquote {
       font-weight: 300;
       max-width: 920px; }
       .main-content .single-content-section p > a {
-        color: #00a69b; }
+        color: #e1ce24; }
     .main-content .single-content-section h4 {
       font-size: 24px;
       line-height: 42px;
       font-weight: 300;
-      color: #00a69b;
+      color: #e1ce24;
       margin-bottom: 25px; }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2224,7 +2224,7 @@ blockquote.blockquote {
         font-weight: 400;
         margin-bottom: 25px; }
         .main-content .single-content-section .code-preview h1 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h1 span.badge-secondary {
             color: #ffffff; }
       .main-content .single-content-section .code-preview h2 {
@@ -2233,7 +2233,7 @@ blockquote.blockquote {
         font-weight: 400;
         margin-bottom: 20px; }
         .main-content .single-content-section .code-preview h2 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h2 span.badge-secondary {
             color: #ffffff; }
       .main-content .single-content-section .code-preview h3 {
@@ -2243,7 +2243,7 @@ blockquote.blockquote {
         color: #252525;
         margin-bottom: 15px; }
         .main-content .single-content-section .code-preview h3 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h3 span.badge-secondary {
             color: #ffffff; }
       .main-content .single-content-section .code-preview h4 {
@@ -2253,7 +2253,7 @@ blockquote.blockquote {
         color: #252525;
         margin-bottom: 10px; }
         .main-content .single-content-section .code-preview h4 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h4 span.badge-secondary {
             color: #ffffff; }
       .main-content .single-content-section .code-preview h5 {
@@ -2261,7 +2261,7 @@ blockquote.blockquote {
         line-height: 42px;
         font-weight: 400; }
         .main-content .single-content-section .code-preview h5 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h5 span.badge-secondary {
             color: #ffffff; }
         .main-content .single-content-section .code-preview h5 a {
@@ -2272,7 +2272,7 @@ blockquote.blockquote {
         line-height: 42px;
         font-weight: 400; }
         .main-content .single-content-section .code-preview h6 span {
-          color: #00a69b; }
+          color: #e1ce24; }
           .main-content .single-content-section .code-preview h6 span.badge-secondary {
             color: #ffffff; }
       .main-content .single-content-section .code-preview p {
@@ -2429,7 +2429,7 @@ blockquote.blockquote {
           display: inline-block; }
           .main-content .single-content-section .code-toolbar .toolbar .toolbar-item span {
             background: transparent;
-            color: #00a69b;
+            color: #e1ce24;
             -webkit-box-shadow: none;
             box-shadow: none;
             font-size: 11px;
@@ -2445,7 +2445,7 @@ blockquote.blockquote {
             padding: 2px 5px;
             letter-spacing: 1px;
             text-transform: uppercase;
-            background: #00a69b;
+            background: #e1ce24;
             -webkit-box-shadow: none;
             box-shadow: none;
             border-radius: 2px; }
@@ -2484,7 +2484,7 @@ blockquote.blockquote {
       .main-content .single-content-section .custom-controls-stacked h5 {
         font-size: 18px;
         font-weight: 300;
-        color: #00a69b;
+        color: #e1ce24;
         margin-bottom: 15px; }
       .main-content .single-content-section .custom-controls-stacked label {
         font-size: 14px;
@@ -2527,7 +2527,7 @@ blockquote.blockquote {
       font-size: 18px;
       line-height: 42px;
       font-weight: 300;
-      color: #00a69b;
+      color: #e1ce24;
       margin-bottom: 10px; }
     .main-content .single-step-section p {
       font-size: 15px;
@@ -2545,8 +2545,8 @@ blockquote.blockquote {
         font-size: 16px;
         line-height: 22px;
         font-weight: 400;
-        color: #00a69b;
-        border-bottom: 1px solid #00a69b;
+        color: #e1ce24;
+        border-bottom: 1px solid #e1ce24;
         display: inline-block;
         margin-bottom: 30px; }
       .main-content .single-step-section .list-block ul li {
@@ -2570,7 +2570,7 @@ blockquote.blockquote {
   font-size: 36px;
   line-height: 42px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 25px; }
 
 .arcive-content p {
@@ -2582,7 +2582,7 @@ blockquote.blockquote {
   font-size: 24px;
   line-height: 42px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 25px; }
 
 .arcive-content .single-list-arcive ul li {
@@ -2602,7 +2602,7 @@ blockquote.blockquote {
   font-size: 36px;
   line-height: 42px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 25px; }
 
 .article-content p {
@@ -2614,7 +2614,7 @@ blockquote.blockquote {
   font-size: 24px;
   line-height: 42px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 25px; }
 
 .article-content .single-list-article ol li {
@@ -2630,7 +2630,7 @@ blockquote.blockquote {
     font-size: 36px;
     font-weight: 300;
     line-height: 42px;
-    color: #00a69b;
+    color: #e1ce24;
     margin-bottom: 20px; }
     @media only screen and (max-width: 767px) {
       .article-area .article-section-title h2 {
@@ -2702,7 +2702,7 @@ blockquote.blockquote {
   font-size: 36px;
   line-height: 42px;
   font-weight: 300;
-  color: #00a69b;
+  color: #e1ce24;
   margin-bottom: 30px; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
     .contact-form-wrap h2 {
@@ -2741,7 +2741,7 @@ blockquote.blockquote {
   height: 50px;
   border: none;
   padding: 5px 30px;
-  background-color: #00a69b;
+  background-color: #e1ce24;
   font-size: 16px;
   color: #ffffff;
   text-transform: capitalize;
@@ -2827,7 +2827,7 @@ blockquote.blockquote {
     line-height: 26px;
     padding: 4px 10px;
     height: 25px;
-    background-color: #00a69b;
+    background-color: #e1ce24;
     color: #ffffff;
     font-weight: 500;
     border-radius: 50px;
@@ -2861,8 +2861,8 @@ blockquote.blockquote {
   font-size: 24px;
   line-height: 30px;
   font-weight: 300;
-  color: #00a69b;
-  border-bottom: 1px solid #00a69b;
+  color: #e1ce24;
+  border-bottom: 1px solid #e1ce24;
   margin-bottom: 15px; }
 
 @media only screen and (max-width: 767px) {
@@ -2884,7 +2884,7 @@ blockquote.blockquote {
   font-size: 16px;
   font-weight: 300;
   line-height: 30px;
-  color: #00a69b; }
+  color: #e1ce24; }
 
 @media only screen and (max-width: 767px) {
   .copyright p {
@@ -2923,7 +2923,7 @@ blockquote.blockquote {
   font-weight: 300;
   line-height: 30px;
   margin: 15px 0;
-  color: #00a69b; }
+  color: #e1ce24; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
     .error-text h4 {
       font-size: 28px;
