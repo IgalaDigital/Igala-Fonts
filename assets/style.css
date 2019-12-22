@@ -307,7 +307,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     outline: none; }
   .df-btn:hover {
     color: #ffffff;
-    background-color: #e1ce24;
+    background-color: #11110e;
     -webkit-box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4);
     box-shadow: 0 1px 10px rgba(0, 166, 155, 0.4); }
   @media only screen and (max-width: 767px) {
