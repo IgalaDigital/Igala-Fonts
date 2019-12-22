@@ -1,35 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Template Name: janet - Documentation Bootstrap 4 Template
-    Version: 1.0
-
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    01. Theme default CSS
-    02. Header CSS
-    03. Hero CSS
-    04. Service CSS
-    05. Video Area CSS
-    06. Accordion Area CSS
-    07. Support Area CSS
-    08. Testimonial CSS
-    09. Call To Acction Area CSS
-    10. Sidebar CSS
-    11. Main Content CSS
-    12. Arcive Page CSS
-    13. Article Page CSS
-    14. Conatct CSS
-    15. Information CSS
-    16. Footer CSS
-    17. 404 Page CSS
-
------------------------------------------------------------------------------------*/
-/*----------------------------------------*/
-/*  01. Theme default CSS
-/*----------------------------------------*/
 /*-- Google Font --*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 /*-- Common Style --*/
@@ -41,7 +10,7 @@ html, body, .site-wrapper {
   height: 100%; }
 
 body {
-  background-color: #ffffff;
+  background-color: #bdb9b9;
   font-size: 15px;
   line-height: 28px;
   font-style: normal;
