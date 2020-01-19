@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: Igalafont;
-    src: url(..fonts/igala.ttf);
+    src: url(IGALA.TTF);
 }
 .fnt {
 	font-family: Igalafont, sans-serif;
