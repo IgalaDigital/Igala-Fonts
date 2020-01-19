@@ -3,6 +3,14 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 /*-- Common Style --*/
 
+@font-face {
+    font-family: Igalafont;
+    src: url(..fonts/igala.ttf);
+}
+.fnt {
+	font-family: Igalafont, sans-serif;
+}
+
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
