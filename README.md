@@ -1,7 +1,5 @@
 ## Igala Fonts
-Rebranding..............
+The igala writing font. Designed to work cross platform on all most all the software around.
 
 ## Todo
-1. Add Fonts
-2. Add How-TO
-3. Publish
+Few things left, font's and everything added.
